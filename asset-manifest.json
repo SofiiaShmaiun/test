@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/test-beer-app/static/css/main.073c9b0a.css",
+    "main.js": "/test-beer-app/static/js/main.14a8784e.js",
+    "static/js/787.48fa031c.chunk.js": "/test-beer-app/static/js/787.48fa031c.chunk.js",
+    "static/media/logo.svg": "/test-beer-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/test-beer-app/index.html",
+    "main.073c9b0a.css.map": "/test-beer-app/static/css/main.073c9b0a.css.map",
+    "main.14a8784e.js.map": "/test-beer-app/static/js/main.14a8784e.js.map",
+    "787.48fa031c.chunk.js.map": "/test-beer-app/static/js/787.48fa031c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.14a8784e.js"
+  ]
+}
